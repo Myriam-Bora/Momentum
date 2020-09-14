@@ -10,7 +10,7 @@ function setUserName(user_name){
     localStorage.setItem("user_localStorage", user_name);
 }
 
-//submit 이벤트 발생시 
+//submit 이벤트 발생시   
 function handleSubmit(event){
     event.preventDefault();     //새로고침 현상 막기
     const user_name = input.value;
