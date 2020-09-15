@@ -20,7 +20,7 @@ function deleteToDo(event){
     });
 
     toDos = cleanToDos;    //삭제한 리스트를 갱신!
-    saveToDos();
+    saveToDos(); 
 }
 
 //localStorage에 todo저장하기
