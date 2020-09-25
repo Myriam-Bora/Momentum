@@ -99,24 +99,22 @@ input::placeholder {
   cursor: pointer;
 }
 
+.ul-div {
+  display: flex;
+  justify-content: center;
+}
+
 .js_toDoList {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
-  /* text-align: center; */
-  /* justify-content: left; */
-  /* align-items: center; */
+  width: 50%;
 }
 
 .js_toDoList li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: midnightblue;
   font-size: 1.5rem;
-  display: block;
-  /* text-align: center; */
-  /* margin: 0px auto; */
   inline-size: 250px;
-  width: 50%;
-  display: flex;
-  justify-content: left;
 }
