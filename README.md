@@ -16,7 +16,7 @@
 
 
 
-✔ 사용언어 / 도구
+## 사용언어 / 도구
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 
@@ -25,6 +25,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+
+## Preview
+  ![momentum](screen-shot/momentum.PNG)
 		
 
 # Try GitHub Pages
