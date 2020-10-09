@@ -1,19 +1,18 @@
-# Momentum
-✔ 구글 확장 프로그램 Momentum 클론
+# Momentum 📝
+구글 확장 프로그램 Momentum 클론
 
 
 
 
-✔ Features (기능)
+## Features (기능)
 
-	 ▪ 현재시각
+	 ✅ 현재시각
 
-	 ▪ 할일 리스트
+	 ✅ 할일 리스트
 
-	 ▪ 지역,날씨
+	 ✅ 지역,날씨
 	
-	 ▪ 무작위 배경화면
-
+	 ✅ 무작위 배경화면
 
 
 ## 사용언어 / 도구
@@ -31,6 +30,6 @@
   ![momentum](screen-shot/momentum.PNG)
 		
 
-# Try GitHub Pages
+# Try GitHub Pages 👁‍🗨
 
 https://myriam-bora.github.io/Momentum/
