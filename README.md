@@ -26,6 +26,16 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 
+## 사용기술
+
+	 ✅ fetch API
+	 
+	 ✅ OpenWeather API
+
+	 ✅ localStorage
+
+
+
 ## Preview
   ![momentum](screen-shot/momentum.PNG)
 		
